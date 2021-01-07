@@ -2,12 +2,12 @@
 
 ### Критическая информационная инфраструктура и безопасность её объектов.
 
-![] (Report.pdf)
-
-<object data="https://kiselev-il.github.io/Kiselev-report/Report.pdf" type="application/pdf" width="700px" height="700px">
+PDF:
+<object data="https://kiselev-il.github.io/Kiselev-report/Report.pdf" type="application/pdf" width="750px" height="900px">
     <embed src="https://kiselev-il.github.io/Kiselev-report/Report.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://kiselev-il.github.io/Kiselev-report/Report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://kiselev-il.github.io/Kiselev-report/Report.docx' width='1366px' height='623px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
+DOCX:
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://kiselev-il.github.io/Kiselev-report/Report.docx' width='750px' height='900px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
