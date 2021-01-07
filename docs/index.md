@@ -1,5 +1,5 @@
 ## Сайт моего реферата.
- [Реферат](Report.htm/index.md)
+ [Реферат](Report.htm/)
  
  [Cсылка на Реферат](Report.docx)
 
