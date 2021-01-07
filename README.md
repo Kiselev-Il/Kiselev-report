@@ -1,14 +1,11 @@
 ## Сайт моего реферата.
 
-
-
 ### Критическая информационная инфраструктура и безопасность её объектов.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+- (Report/README.md)
 ```markdown
 
-- [Report.docx]
+
 
 
 ```
