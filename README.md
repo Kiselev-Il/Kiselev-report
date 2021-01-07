@@ -1,7 +1,7 @@
 ## Критическая информационная инфраструктура и безопасность её объектов.
 
 You can use the [editor on GitHub](https://github.com/Kiselev-Il/Kiselev-report/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-[Опубликованный реферат](Report.docx/Report.md)
+[Опубликованный реферат](Report/Report.md)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
