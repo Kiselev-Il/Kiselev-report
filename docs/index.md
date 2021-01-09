@@ -2,7 +2,8 @@
  [Реферат](Report.md/)
  
  [Cсылка на Реферат](Report.docx)
-
+ 
+[Рабочий файл](https://github.com/Kiselev-Il/Kiselev-report/tree/main/docs)
 
 PDF версия :
 <object data="https://kiselev-il.github.io/Kiselev-report/Report.pdf" type="application/pdf" width="750px" height="900px">
