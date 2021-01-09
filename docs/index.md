@@ -1,7 +1,7 @@
 ## Сайт моего реферата.
  [Реферат](Report.md/)
  
- [Cсылка на Реферат](Report.dox)
+ [Cсылка на Реферат](Report.docx)
  
 [Рабочий файл](https://github.com/Kiselev-Il/Kiselev-report/tree/main/docs)
 
