@@ -15,6 +15,3 @@ PDF версия :
 DOCX версия :
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://kiselev-il.github.io/Kiselev-report/Report.docx' width='750px' height='900px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
 
-DOCX версия :
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://kiselev-il.github.io/Kiselev-report/blob/main/docs/Report.docx' width='750px' height='900px' frameborder='0'>This is an embedded <a target='_blank' href='http://office.com'>Microsoft Office</a> document, powered by <a target='_blank' href='http://office.com/webapps'>Office Online</a>.</iframe>
-
